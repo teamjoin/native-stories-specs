@@ -1,1 +1,2 @@
-#native-stories-specs
+# Cocoapods Specs for JoinStoriesKit
+
