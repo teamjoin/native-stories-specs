@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JoinStoriesKit'
-  s.version          = '0.2.3'
+  s.version          = '0.2.4'
   s.summary          = 'Join Stories Kit for iOS apps.'
 
 # This description is used to generate tags and improve search results.
@@ -22,10 +22,10 @@ This pod connects to the Join stories API.
 Provides UI to display stories thumbnails, full screen stories.
                        DESC
 
-  s.homepage         = 'https://github.com/teabow/JoinStoriesKit'
+  s.homepage         = 'https://github.com/teamjoin/JoinStoriesKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'teabow' => 'thibaud.bourgeois@gmail.com' }
-  s.source           = { :git => 'https://github.com/teabow/JoinStoriesKit.git', :tag => s.version.to_s }
+  s.author           = { 'dcombe' => 'combedimitri@gmail.com' }
+  s.source           = { :git => 'https://github.com/teamjoin/JoinStoriesKit.git', :tag => s.version.to_s }
   s.swift_version    = '5.0'
 
   s.ios.deployment_target = '10.0'
